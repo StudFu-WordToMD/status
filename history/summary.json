@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 1138,
-    "timeWeek": 1138,
-    "timeMonth": 1138,
-    "timeYear": 1138,
+    "time": 1137,
+    "timeDay": 1137,
+    "timeWeek": 1137,
+    "timeMonth": 1137,
+    "timeYear": 1137,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "0.59%",
-    "uptimeDay": "0.59%",
-    "uptimeWeek": "0.59%",
-    "uptimeMonth": "0.59%",
-    "uptimeYear": "0.59%",
-    "time": 856,
-    "timeDay": 856,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 855,
+    "timeDay": 855,
+    "timeWeek": 855,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2020-12-27": 8
+      "2020-12-27": 31
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 1096,
-    "timeWeek": 1096,
-    "timeMonth": 1096,
-    "timeYear": 1096,
+    "time": 1134,
+    "timeDay": 1134,
+    "timeWeek": 1134,
+    "timeMonth": 1134,
+    "timeYear": 1134,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-papa",
     "status": "down",
-    "uptime": "7.00%",
-    "uptimeDay": "7.00%",
-    "uptimeWeek": "7.00%",
-    "uptimeMonth": "7.00%",
-    "uptimeYear": "7.00%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-27": 0
+      "2020-12-27": 23
     }
   }
 ]
