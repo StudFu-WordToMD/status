@@ -15,7 +15,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: /status
+  # cname: /status
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -24,7 +24,7 @@ status-website:
   introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: https://studfu-wordtomd.github.io/status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
