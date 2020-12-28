@@ -4,19 +4,19 @@
     "url": "$JELLYFIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 2730,
-    "timeDay": 2730,
-    "timeWeek": 2730,
-    "timeMonth": 2730,
-    "timeYear": 2730,
+    "status": "up",
+    "uptime": "95.49%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "95.49%",
+    "time": 2492,
+    "timeDay": 2492,
+    "timeWeek": 2492,
+    "timeMonth": 2492,
+    "timeYear": 2492,
     "dailyMinutesDown": {
-      "2020-12-28": 1
+      "2020-12-28": 38
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 855,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2020-12-28": 722,
+      "2020-12-28": 758,
       "2020-12-27": 74
     }
   },
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 722,
+      "2020-12-28": 758,
       "2020-12-27": 67
     }
   }
