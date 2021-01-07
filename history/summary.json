@@ -36,7 +36,8 @@
     "timeMonth": 855,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2021-01-06": 1396,
+      "2021-01-07": 22,
+      "2021-01-06": 1440,
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
@@ -55,19 +56,17 @@
     "icon": "https://favicons.githubusercontent.com/www.derhausarzt.de",
     "slug": "der-hausarzt",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1074,
     "timeDay": 950,
     "timeWeek": 1022,
     "timeMonth": 1074,
     "timeYear": 1074,
-    "dailyMinutesDown": {
-      "2021-01-06": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud Papa",
@@ -86,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-06": 1396,
+      "2021-01-07": 22,
+      "2021-01-06": 1440,
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
