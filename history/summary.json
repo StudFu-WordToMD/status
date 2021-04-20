@@ -106,7 +106,7 @@
     "url": "$NEXTCLOUD_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-papa",
-    "status": "up",
+    "status": "down",
     "uptime": "96.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -114,7 +114,7 @@
     "uptimeYear": "96.43%",
     "time": 2035,
     "timeDay": 2038,
-    "timeWeek": 2125,
+    "timeWeek": 2128,
     "timeMonth": 2216,
     "timeYear": 2035,
     "dailyMinutesDown": {
