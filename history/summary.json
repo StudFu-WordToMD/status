@@ -108,15 +108,15 @@
     "url": "$NEXTCLOUD_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-papa",
-    "status": "up",
-    "uptime": "96.21%",
-    "uptimeDay": "53.33%",
-    "uptimeWeek": "37.19%",
-    "uptimeMonth": "83.43%",
-    "uptimeYear": "96.21%",
+    "status": "down",
+    "uptime": "96.22%",
+    "uptimeDay": "53.32%",
+    "uptimeWeek": "37.23%",
+    "uptimeMonth": "83.47%",
+    "uptimeYear": "96.22%",
     "time": 2118,
     "timeDay": 2205,
-    "timeWeek": 2003,
+    "timeWeek": 2010,
     "timeMonth": 2458,
     "timeYear": 2118,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
       "2021-05-04": 912,
       "2021-05-03": 942,
       "2021-05-02": 853,
-      "2021-05-01": 158
+      "2021-05-01": 143
     }
   }
 ]
