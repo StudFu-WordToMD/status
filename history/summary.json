@@ -30,11 +30,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "78.88%",
+    "uptime": "78.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "78.88%",
+    "uptimeYear": "78.89%",
     "time": 2506,
     "timeDay": 4534,
     "timeWeek": 3535,
@@ -108,15 +108,15 @@
     "url": "$NEXTCLOUD_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-papa",
-    "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "31.27%",
-    "uptimeWeek": "36.89%",
-    "uptimeMonth": "81.73%",
-    "uptimeYear": "96.15%",
+    "status": "down",
+    "uptime": "96.22%",
+    "uptimeDay": "35.18%",
+    "uptimeWeek": "37.41%",
+    "uptimeMonth": "82.08%",
+    "uptimeYear": "96.22%",
     "time": 2135,
-    "timeDay": 1848,
-    "timeWeek": 2444,
+    "timeDay": 1882,
+    "timeWeek": 2453,
     "timeMonth": 2533,
     "timeYear": 2135,
     "dailyMinutesDown": {
@@ -129,7 +129,7 @@
       "2021-05-15": 866,
       "2021-05-14": 917,
       "2021-05-13": 911,
-      "2021-05-12": 421
+      "2021-05-12": 264
     }
   }
 ]
