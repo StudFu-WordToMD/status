@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2021-09-17": 1024,
+      "2021-09-17": 1046,
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
@@ -249,16 +249,16 @@
     "url": "$NEXTCLOUD_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-papa",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "50.78%",
-    "uptimeWeek": "43.26%",
-    "uptimeMonth": "86.94%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "52.30%",
+    "uptimeWeek": "43.50%",
+    "uptimeMonth": "87.00%",
+    "uptimeYear": "98.50%",
     "time": 2169,
     "timeDay": 1879,
     "timeWeek": 1880,
-    "timeMonth": 1957,
+    "timeMonth": 1958,
     "timeYear": 2169,
     "dailyMinutesDown": {
       "2021-09-17": 521,
@@ -268,7 +268,7 @@
       "2021-09-13": 783,
       "2021-09-12": 890,
       "2021-09-11": 857,
-      "2021-09-10": 166
+      "2021-09-10": 142
     }
   }
 ]
