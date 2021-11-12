@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "45.72%",
+    "uptime": "45.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.72%",
+    "uptimeYear": "45.71%",
     "time": 1206,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2021-11-12": 512,
+      "2021-11-12": 533,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
@@ -308,15 +308,15 @@
     "url": "$NEXTCLOUD_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud-papa",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "48.33%",
-    "uptimeWeek": "42.49%",
-    "uptimeMonth": "84.09%",
-    "uptimeYear": "98.48%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "48.36%",
+    "uptimeWeek": "42.59%",
+    "uptimeMonth": "84.15%",
+    "uptimeYear": "98.49%",
     "time": 2121,
     "timeDay": 1979,
-    "timeWeek": 2268,
+    "timeWeek": 2273,
     "timeMonth": 2062,
     "timeYear": 2121,
     "dailyMinutesDown": {
@@ -329,7 +329,7 @@
       "2021-11-06": 662,
       "2021-11-05": 975,
       "2021-11-04": 713,
-      "2021-11-03": 35
+      "2021-11-03": 8
     }
   }
 ]
