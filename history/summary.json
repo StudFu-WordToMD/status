@@ -4,10 +4,10 @@
     "url": "$JELLYFIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "85.09%",
-    "uptimeWeek": "57.74%",
+    "uptimeDay": "85.02%",
+    "uptimeWeek": "57.73%",
     "uptimeMonth": "88.05%",
     "uptimeYear": "95.23%",
     "time": 1058,
@@ -16,7 +16,7 @@
     "timeMonth": 706,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-09-18": 215,
+      "2022-09-18": 216,
       "2022-09-17": 326,
       "2022-09-16": 1123,
       "2022-09-15": 1049,
@@ -62,8 +62,7 @@
       "2022-02-08": 1440,
       "2022-02-07": 480,
       "2022-02-01": 68,
-      "2022-01-27": 356,
-      "2022-01-14": 21
+      "2022-01-27": 356
     }
   },
   {
@@ -71,19 +70,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "54.78%",
-    "uptimeWeek": "38.83%",
+    "uptimeDay": "57.13%",
+    "uptimeWeek": "39.16%",
     "uptimeMonth": "85.09%",
-    "uptimeYear": "98.16%",
-    "time": 5260,
-    "timeDay": 3620,
+    "uptimeYear": "98.17%",
+    "time": 5261,
+    "timeDay": 3487,
     "timeWeek": 3505,
     "timeMonth": 4271,
     "timeYear": 5565,
     "dailyMinutesDown": {
-      "2022-09-18": 586,
+      "2022-09-18": 587,
       "2022-09-17": 740,
       "2022-09-16": 1149,
       "2022-09-15": 948,
@@ -102,7 +101,7 @@
       "2022-05-17": 168,
       "2022-05-08": 108,
       "2022-05-03": 686,
-      "2022-05-02": 392
+      "2022-05-02": 367
     }
   },
   {
@@ -143,9 +142,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1962,
+    "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-09-18": 1216,
+      "2022-09-18": 1251,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
