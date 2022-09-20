@@ -4,19 +4,19 @@
     "url": "$JELLYFIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "65.23%",
-    "uptimeWeek": "54.84%",
-    "uptimeMonth": "85.58%",
-    "uptimeYear": "98.80%",
-    "time": 1052,
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "65.16%",
+    "uptimeWeek": "54.83%",
+    "uptimeMonth": "85.84%",
+    "uptimeYear": "98.82%",
+    "time": 1015,
     "timeDay": 233,
     "timeWeek": 536,
     "timeMonth": 617,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2022-09-20": 478,
+      "2022-09-20": 479,
       "2022-09-19": 629,
       "2022-09-18": 303,
       "2022-09-17": 326,
@@ -35,7 +35,7 @@
       "2022-08-30": 79,
       "2022-08-29": 51,
       "2022-08-28": 19,
-      "2022-08-27": 176
+      "2022-08-27": 57
     }
   },
   {
@@ -43,19 +43,19 @@
     "url": "$NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "50.79%",
-    "uptimeWeek": "41.52%",
-    "uptimeMonth": "82.33%",
-    "uptimeYear": "98.53%",
-    "time": 5325,
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "50.75%",
+    "uptimeWeek": "41.55%",
+    "uptimeMonth": "82.46%",
+    "uptimeYear": "98.54%",
+    "time": 5326,
     "timeDay": 3319,
-    "timeWeek": 3787,
+    "timeWeek": 3729,
     "timeMonth": 4008,
     "timeYear": 5469,
     "dailyMinutesDown": {
-      "2022-09-20": 568,
+      "2022-09-20": 569,
       "2022-09-19": 953,
       "2022-09-18": 627,
       "2022-09-17": 740,
@@ -64,7 +64,7 @@
       "2022-09-14": 781,
       "2022-09-13": 1029,
       "2022-09-12": 807,
-      "2022-09-11": 145
+      "2022-09-11": 85
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 1962,
     "dailyMinutesDown": {
-      "2022-09-20": 1187,
+      "2022-09-20": 1194,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
