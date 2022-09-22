@@ -4,11 +4,11 @@
     "url": "$JELLYFIN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "69.83%",
-    "uptimeWeek": "58.16%",
-    "uptimeMonth": "85.35%",
+    "uptimeDay": "70.03%",
+    "uptimeWeek": "58.23%",
+    "uptimeMonth": "85.41%",
     "uptimeYear": "98.78%",
     "time": 1011,
     "timeDay": 1378,
@@ -16,7 +16,7 @@
     "timeMonth": 643,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2022-09-22": 74,
+      "2022-09-22": 75,
       "2022-09-21": 360,
       "2022-09-20": 542,
       "2022-09-19": 629,
@@ -30,7 +30,7 @@
       "2022-09-11": 343,
       "2022-09-06": 17,
       "2022-09-04": 61,
-      "2022-09-03": 64
+      "2022-09-03": 37
     }
   },
   {
@@ -41,7 +41,7 @@
     "status": "up",
     "uptime": "99.14%",
     "uptimeDay": "71.17%",
-    "uptimeWeek": "43.78%",
+    "uptimeWeek": "43.89%",
     "uptimeMonth": "82.16%",
     "uptimeYear": "98.51%",
     "time": 5183,
@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-09-22": 470,
+      "2022-09-22": 482,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
