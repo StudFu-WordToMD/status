@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "62.61%",
+    "uptime": "62.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "1.80%",
     "time": 238,
-    "timeDay": 103,
-    "timeWeek": 108,
-    "timeMonth": 97,
-    "timeYear": 150,
+    "timeDay": 98,
+    "timeWeek": 103,
+    "timeMonth": 98,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-10-10": 29,
+      "2023-10-11": 29,
+      "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -374,8 +375,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
-      "2022-10-12": 1440,
-      "2022-10-11": 1440
+      "2022-10-12": 1440
     }
   },
   {
@@ -384,18 +384,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "63.25%",
+    "uptime": "63.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "3.73%",
-    "time": 855,
-    "timeDay": 104,
-    "timeWeek": 79,
+    "time": 853,
+    "timeDay": 64,
+    "timeWeek": 74,
     "timeMonth": 94,
-    "timeYear": 438,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-10-10": 29,
+      "2023-10-11": 29,
+      "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -748,8 +749,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
-      "2022-10-12": 1440,
-      "2022-10-11": 1440
+      "2022-10-12": 1440
     }
   },
   {
@@ -763,10 +763,10 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 962,
-    "timeDay": 715,
-    "timeWeek": 910,
-    "timeMonth": 933,
+    "time": 963,
+    "timeDay": 1126,
+    "timeWeek": 902,
+    "timeMonth": 946,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2023-10-08": 21,
@@ -781,7 +781,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-papa",
     "status": "down",
-    "uptime": "31.91%",
+    "uptime": "31.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -792,7 +792,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-10": 29,
+      "2023-10-11": 29,
+      "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -1155,8 +1156,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
-      "2022-10-12": 1440,
-      "2022-10-11": 1440
+      "2022-10-12": 1440
     }
   }
 ]
