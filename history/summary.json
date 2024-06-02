@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "50.85%",
+    "uptime": "50.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 75,
+    "timeDay": 73,
     "timeWeek": 93,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-06-01": 36,
+      "2024-06-02": 36,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -379,8 +380,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "51.37%",
+    "uptime": "51.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 185,
-    "timeDay": 97,
+    "time": 184,
+    "timeDay": 128,
     "timeWeek": 94,
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-06-01": 36,
+      "2024-06-02": 36,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -763,8 +764,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 920,
-    "timeDay": 726,
-    "timeWeek": 804,
-    "timeMonth": 903,
+    "timeDay": 935,
+    "timeWeek": 827,
+    "timeMonth": 910,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2024-04-29": 39,
@@ -796,7 +796,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-papa",
     "status": "down",
-    "uptime": "25.92%",
+    "uptime": "25.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -807,7 +807,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-01": 36,
+      "2024-06-02": 36,
+      "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
@@ -1170,8 +1171,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
-      "2023-06-04": 1440,
-      "2023-06-03": 1440
+      "2023-06-04": 1440
     }
   }
 ]
