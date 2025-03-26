@@ -1,7 +1,7 @@
 url: https://www.derhausarzt.de
-status: up
-code: 200
-responseTime: 1735
-lastUpdated: 2025-03-26T06:21:36.112Z
+status: down
+code: 502
+responseTime: 1159
+lastUpdated: 2025-03-26T07:46:52.018Z
 startTime: 2020-12-27T22:45:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
