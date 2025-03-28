@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "41.04%",
+    "uptime": "41.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 122,
-    "timeDay": 440,
-    "timeWeek": 497,
-    "timeMonth": 432,
-    "timeYear": 134,
+    "time": 123,
+    "timeDay": 442,
+    "timeWeek": 495,
+    "timeMonth": 443,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-03-27": 132,
+      "2025-03-28": 44,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -379,8 +380,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "41.46%",
+    "uptime": "41.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 118,
-    "timeDay": 441,
-    "timeWeek": 507,
-    "timeMonth": 442,
-    "timeYear": 129,
+    "timeDay": 495,
+    "timeWeek": 520,
+    "timeMonth": 455,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-03-27": 133,
+      "2025-03-28": 44,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -763,8 +764,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
@@ -774,15 +774,15 @@
     "slug": "der-hausarzt",
     "status": "up",
     "uptime": "94.96%",
-    "uptimeDay": "86.03%",
+    "uptimeDay": "93.86%",
     "uptimeWeek": "98.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "78.69%",
     "time": 1180,
-    "timeDay": 1692,
-    "timeWeek": 1765,
-    "timeMonth": 1676,
-    "timeYear": 1269,
+    "timeDay": 1688,
+    "timeWeek": 1767,
+    "timeMonth": 1655,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-03-27": 95,
       "2025-03-26": 106,
@@ -877,7 +877,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-papa",
     "status": "down",
-    "uptime": "20.92%",
+    "uptime": "20.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -888,7 +888,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 133,
+      "2025-03-28": 44,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1251,8 +1252,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   }
 ]
