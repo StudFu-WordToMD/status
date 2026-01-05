@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "34.70%",
+    "uptime": "34.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2026-01-04": 59,
+      "2026-01-05": 58,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -379,8 +380,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "35.06%",
+    "uptime": "35.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-01-04": 59,
+      "2026-01-05": 58,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -763,8 +764,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -773,15 +773,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.derhausarzt.de.ico",
     "slug": "der-hausarzt",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.82%",
-    "time": 1697,
-    "timeDay": 1827,
-    "timeWeek": 2155,
-    "timeMonth": 1861,
+    "time": 1696,
+    "timeDay": 1403,
+    "timeWeek": 2229,
+    "timeMonth": 1780,
     "timeYear": 1703,
     "dailyMinutesDown": {
       "2025-12-31": 21,
@@ -816,7 +816,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-papa",
     "status": "down",
-    "uptime": "17.69%",
+    "uptime": "17.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -827,7 +827,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-04": 59,
+      "2026-01-05": 59,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -1190,8 +1191,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   }
 ]
