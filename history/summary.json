@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "34.55%",
+    "uptime": "34.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2026-01-12": 57,
+      "2026-01-13": 50,
+      "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -379,8 +380,7 @@
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
-      "2025-01-14": 1440,
-      "2025-01-13": 1440
+      "2025-01-14": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "34.91%",
+    "uptime": "34.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2026-01-12": 57,
+      "2026-01-13": 50,
+      "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -763,8 +764,7 @@
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
-      "2025-01-14": 1440,
-      "2025-01-13": 1440
+      "2025-01-14": 1440
     }
   },
   {
@@ -774,14 +774,14 @@
     "slug": "der-hausarzt",
     "status": "up",
     "uptime": "95.73%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.81%",
-    "time": 1694,
-    "timeDay": 1458,
-    "timeWeek": 1567,
-    "timeMonth": 1776,
+    "time": 1695,
+    "timeDay": 1927,
+    "timeWeek": 1619,
+    "timeMonth": 1792,
     "timeYear": 1704,
     "dailyMinutesDown": {
       "2026-01-11": 16,
@@ -818,7 +818,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-papa",
     "status": "down",
-    "uptime": "17.61%",
+    "uptime": "17.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -829,7 +829,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-12": 57,
+      "2026-01-13": 50,
+      "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -1192,8 +1193,7 @@
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
-      "2025-01-14": 1440,
-      "2025-01-13": 1440
+      "2025-01-14": 1440
     }
   }
 ]
