@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "33.87%",
+    "uptime": "33.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.13%",
-    "uptimeMonth": "23.86%",
-    "uptimeYear": "1.33%",
-    "time": 199,
-    "timeDay": 372,
-    "timeWeek": 1086,
-    "timeMonth": 1086,
-    "timeYear": 243,
+    "uptimeWeek": "74.63%",
+    "uptimeMonth": "25.13%",
+    "uptimeYear": "1.43%",
+    "time": 200,
+    "timeDay": 539,
+    "timeWeek": 1032,
+    "timeMonth": 1032,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2026-03-03": 334,
       "2026-03-02": 7,
@@ -376,8 +376,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -386,16 +385,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "34.21%",
+    "uptime": "34.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.14%",
-    "uptimeMonth": "23.87%",
-    "uptimeYear": "1.33%",
-    "time": 182,
-    "timeDay": 791,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 218,
+    "uptimeWeek": "74.64%",
+    "uptimeMonth": "25.13%",
+    "uptimeYear": "1.43%",
+    "time": 185,
+    "timeDay": 1206,
+    "timeWeek": 945,
+    "timeMonth": 945,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2026-03-03": 333,
       "2026-03-02": 6,
@@ -757,8 +756,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -773,10 +771,10 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.72%",
     "time": 1708,
-    "timeDay": 1687,
-    "timeWeek": 1824,
-    "timeMonth": 1897,
-    "timeYear": 1713,
+    "timeDay": 1954,
+    "timeWeek": 1871,
+    "timeMonth": 1910,
+    "timeYear": 1712,
     "dailyMinutesDown": {
       "2026-03-04": 51,
       "2026-02-21": 160,
@@ -831,7 +829,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 952,
+      "2026-03-05": 66,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1194,8 +1193,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   }
 ]
