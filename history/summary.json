@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "34.09%",
+    "uptime": "34.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
-    "uptimeMonth": "44.66%",
-    "uptimeYear": "3.06%",
+    "uptimeMonth": "47.94%",
+    "uptimeYear": "3.33%",
     "time": 207,
-    "timeDay": 388,
-    "timeWeek": 456,
-    "timeMonth": 790,
+    "timeDay": 400,
+    "timeWeek": 439,
+    "timeMonth": 768,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2026-03-09": 81,
@@ -370,8 +370,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -380,16 +379,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "34.43%",
+    "uptime": "34.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
-    "uptimeMonth": "44.66%",
-    "uptimeYear": "3.06%",
-    "time": 204,
-    "timeDay": 995,
-    "timeWeek": 1139,
-    "timeMonth": 1026,
-    "timeYear": 239,
+    "uptimeMonth": "47.94%",
+    "uptimeYear": "3.33%",
+    "time": 206,
+    "timeDay": 965,
+    "timeWeek": 1109,
+    "timeMonth": 1022,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2026-03-09": 80,
       "2026-03-03": 333,
@@ -745,8 +744,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -755,15 +753,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.derhausarzt.de.ico",
     "slug": "der-hausarzt",
     "status": "up",
-    "uptime": "95.84%",
+    "uptime": "95.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.74%",
-    "time": 1722,
-    "timeDay": 1338,
-    "timeWeek": 2727,
-    "timeMonth": 2224,
+    "time": 1721,
+    "timeDay": 1387,
+    "timeWeek": 2757,
+    "timeMonth": 2207,
     "timeYear": 1729,
     "dailyMinutesDown": {
       "2026-03-04": 51,
@@ -818,7 +816,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 62,
+      "2026-03-12": 59,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1181,8 +1180,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   }
 ]
